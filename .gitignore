@@ -3,3 +3,13 @@
 *.fq
 *.fq.gz
 *.zip
+
+# Large taxonomy reference databases
+**/taxonomy/reference/
+**/taxonomy/blast/
+**/taxonomy/input/
+
+# Downloaded database archives
+*.zip
+*.tar.gz
+*.7z
