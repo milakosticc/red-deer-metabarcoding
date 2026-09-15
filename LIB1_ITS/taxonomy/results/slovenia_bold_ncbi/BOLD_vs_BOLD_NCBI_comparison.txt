@@ -1,0 +1,73 @@
+=== BOLD-only vs BOLD+NCBI ===
+OTUs compared: 162
+Identical accepted taxonomy: 146
+Changed accepted taxonomy:   16
+
+Same deepest rank:            146
+Changed deepest rank:         16
+
+=== CHANGED OTUs ===
+
+OTU1
+  BOLD-only    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus,s:Rubus_caesius
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus
+
+OTU102
+  BOLD-only    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Geraniales,f:Geraniaceae
+  BOLD+NCBI    [Class]: k:Plantae,p:Tracheophyta,c:Magnoliopsida
+
+OTU111
+  BOLD-only    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Boraginales,f:Boraginaceae
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Boraginales,f:Boraginaceae,g:Myosotis
+
+OTU119
+  BOLD-only    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Lamiales,f:Oleaceae,g:Fraxinus
+  BOLD+NCBI    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Lamiales,f:Oleaceae,g:Fraxinus,s:Fraxinus_pennsylvanica
+
+OTU141
+  BOLD-only    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Boraginales,f:Boraginaceae
+  BOLD+NCBI    [Kingdom]: k:Plantae
+
+OTU147
+  BOLD-only    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus,s:Rubus_caesius
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus
+
+OTU151
+  BOLD-only    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus,s:Rubus_caesius
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus
+
+OTU154
+  BOLD-only    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Boraginales,f:Boraginaceae
+  BOLD+NCBI    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Boraginales,f:Boraginaceae,g:Pulmonaria,s:Pulmonaria_officinalis
+
+OTU21
+  BOLD-only    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus,s:Rubus_caesius
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus
+
+OTU24
+  BOLD-only    [Family]: k:Plantae,p:Tracheophyta,c:Liliopsida,o:Poales,f:Poaceae
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Liliopsida,o:Poales,f:Poaceae,g:Festuca
+
+OTU40
+  BOLD-only    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Malpighiales,f:Euphorbiaceae,g:Euphorbia,s:Euphorbia_verrucosa
+  BOLD+NCBI    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Malpighiales,f:Euphorbiaceae,g:Euphorbia
+
+OTU52
+  BOLD-only    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Brassicales,f:Brassicaceae,g:Cardamine
+  BOLD+NCBI    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Brassicales,f:Brassicaceae
+
+OTU81
+  BOLD-only    [Class]: k:Plantae,p:Tracheophyta,c:Magnoliopsida
+  BOLD+NCBI    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae
+
+OTU83
+  BOLD-only    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Fagales,f:Fagaceae,g:Quercus
+  BOLD+NCBI    [Species]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Fagales,f:Fagaceae,g:Quercus,s:Quercus_robur
+
+OTU85
+  BOLD-only    [Genus]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae,g:Rubus
+  BOLD+NCBI    [Family]: k:Plantae,p:Tracheophyta,c:Magnoliopsida,o:Rosales,f:Rosaceae
+
+OTU97
+  BOLD-only    [Class]: k:Plantae,p:Tracheophyta,c:Magnoliopsida
+  BOLD+NCBI    [Kingdom]: k:Plantae
